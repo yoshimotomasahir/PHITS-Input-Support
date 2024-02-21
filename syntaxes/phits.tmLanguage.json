@@ -167,7 +167,7 @@
 			"patterns": [
 				{
 					"name": "comment.line",
-					"match": "[\\$\\#\\!\\%].*"
+					"match": "[\\$\\#\\!].*"
 				}
 			]
 		},
@@ -175,7 +175,7 @@
 			"patterns": [
 				{
 					"name": "comment.line",
-					"match": "[\\$\\!\\%].*"
+					"match": "[\\$\\!].*"
 				}
 			]
 		}
